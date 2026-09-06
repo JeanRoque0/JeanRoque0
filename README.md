@@ -63,17 +63,17 @@ Sustentação de ambientes Linux e containers, automação operacional e organiz
 
 [Ver cargos, períodos e detalhes no portfólio →](https://jeanroque0.github.io/experiencia/)
 
-## Projetos e estudos públicos
+## Projetos
 
-| Projeto | O que você encontra | Stack |
-| :--- | :--- | :--- |
-| [**Automação web com Rust e Selenium**](https://github.com/Jean-V0/twitch-selenium) | Estudo de controle de navegadores, gerenciamento de sessões e automação de fluxos web | Rust · Selenium · Cargo |
-| [**C++ na prática — CFBCursos**](https://github.com/Jean-V0/bfcursos-cpp) | Exercícios de linguagem, estruturas de dados, ponteiros e gerenciamento de memória | C++ |
-| [**Swing Music Playbook**](https://github.com/Jean-V0/swing-music-playbook) | Implantação automatizada de um music player self-hosted em Linux | Ansible · Linux |
+### Swing Music — seu próprio music player
 
-Esses repositórios reúnem estudos e projetos pessoais. Minha experiência com sistemas financeiros e de varejo está descrita na trajetória profissional.
+Playbook Ansible para implantação automatizada do Swing Music em ambientes Linux, com provisionamento da aplicação e configuração de serviços para um music player self-hosted.
 
-[Explorar projetos no portfólio →](https://jeanroque0.github.io/projetos/)
+**Categoria:** DevOps · **Stack:** Ansible, Linux
+
+[Ver repositório →](https://github.com/Jean-V0/swing-music-playbook) · [Explorar no portfólio →](https://jeanroque0.github.io/projetos/)
+
+Minha experiência com sistemas financeiros e de varejo está descrita na trajetória profissional.
 
 ## Vamos trabalhar juntos?
 
